@@ -73,7 +73,7 @@ body{
     
 }
 .course-card{
-    width:250px ;
+    width: 300px ;
 } 
 .course-card img{
     width: 100%;
@@ -98,8 +98,8 @@ body{
 }
 .popular-container{
     display: flex;
-    margin-top: 10px;
     flex-wrap: wrap;
+    margin-top: 10px;
     justify-content: space-between;
     padding: 10px;
 }
@@ -119,4 +119,12 @@ body{
 .footer1 p{
     margin: 20px;
 
+}
+.recommended-title{
+    padding: 20px;
+    text-align: center;
+}
+.recommended_para{
+    padding-left:20px;
+    text-align: center;
 }
